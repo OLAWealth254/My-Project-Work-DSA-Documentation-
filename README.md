@@ -67,7 +67,13 @@ To get revenue = Actual price x Rating count, and aggregated by category.
 * Amazon product review analysis.xlsx
 * Cleaned Data: Cleaned Version of the original dataset with calculated columns
 * Pivot Tables
-* Dashboard 
+* Dashboard
+
+
+  ## How to Use
+* Clone or download the repository
+* Open Amazon product Review Analysis.xlsx in Microsoft Excel
+* Use the filters to explore the dashboard.
 
 
 
