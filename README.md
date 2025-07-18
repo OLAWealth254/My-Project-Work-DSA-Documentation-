@@ -76,4 +76,7 @@ To get revenue = Actual price x Rating count, and aggregated by category.
 * Use the filters to explore the dashboard.
 
 
+## Author 
+Olarewaju.O.Gift
+
 
