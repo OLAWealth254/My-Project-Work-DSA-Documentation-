@@ -9,7 +9,7 @@ This is where I started my portfolio building while taking my  Data Analysis cla
   This Data Analysis Project aim to generate business insight that guide products improvement, marketing strategies and customer engagement by analysing product and customer review data. We seek to gather enough insight to make reasonable decisions,which enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
   ### Data Sources 
-   The primary source of data used here is Amazon Products Review Analysis.csv, this is an open source data that can be freely downloaded from an online open source such as Kaggle, FRED or any other data repository site.
+   The primary source of data used (Amazon Products Review Analysis.csv),It is provided by the Incubator Hub, this is an open source data that can be freely downloaded from an online open source such as Kaggle, FRED or any other data repository site.
 
    ### Data Cleaning 
 The data was cleaned using the following Microsoft Excel Functions 
